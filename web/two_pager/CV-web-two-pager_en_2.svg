@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="8.5in"
    height="11in"
    viewBox="0 0 215.9 279.4"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="CV-web-two-pager_en_(2).svg">
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="CV-web-two-pager_en_2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -22,24 +22,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.259936"
-     inkscape:cx="674.59199"
-     inkscape:cy="59.423873"
+     inkscape:zoom="2.2073762"
+     inkscape:cx="67.274442"
+     inkscape:cy="76.788"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1680"
      inkscape:window-height="997"
-     inkscape:window-x="150"
-     inkscape:window-y="25"
+     inkscape:window-x="139"
+     inkscape:window-y="56"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:lockguides="false"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
      inkscape:snap-global="false"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -91,7 +94,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -947,227 +949,223 @@
            width="12.178587"
            id="rect1406" /></flowRegion><flowPara
          id="flowPara1408" /></flowRoot>
+    <rect
+       y="17.599998"
+       x="3.1933594e-06"
+       height="35.128201"
+       width="215.89999"
+       id="rect1602"
+       style="fill:#333840;fill-opacity:1;stroke:none;stroke-width:0.9061;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93899px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.264589"
+       x="5.3524861"
+       y="35.508591"
+       id="text1606"
+       transform="scale(0.9999802,1.0000198)"><tspan
+         sodipodi:role="line"
+         id="tspan1604"
+         x="5.3524861"
+         y="35.508591"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93899px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke-width:0.264589">SENIOR WEB DEVELOPER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5835px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264589"
+       x="4.8606954"
+       y="29.072674"
+       id="text1610"
+       transform="scale(0.9999802,1.0000198)"><tspan
+         sodipodi:role="line"
+         id="tspan1608"
+         x="4.8606954"
+         y="29.072674"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35013px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke-width:0.264589">PIERRE-EMMANUEL LÉVESQUE</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1612"
+       d="M 5.45074,36.816835 H 62.975727"
+       style="fill:none;stroke:#bbbbbb;stroke-width:0.338388;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(-261.77377,19.320797)"
-       id="g2153">
-      <rect
-         y="-1.7207977"
-         x="261.77377"
-         height="35.128201"
-         width="215.89999"
-         id="rect1602"
-         style="opacity:1;fill:#333840;fill-opacity:1;stroke:none;stroke-width:0.90610009;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       transform="matrix(1,0,0,1.0000396,-0.92866,0.898043)"
+       id="g1624">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.93899px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.264589"
-         x="267.13144"
-         y="16.188175"
-         id="text1606"
-         transform="scale(0.9999802,1.0000198)"><tspan
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="12.593594"
+         y="47.891621"
+         id="text1616"><tspan
            sodipodi:role="line"
-           id="tspan1604"
-           x="267.13144"
-           y="16.188175"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93899px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke-width:0.264589">WEB DEVELOPER</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5835px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264589"
-         x="266.63965"
-         y="9.7522602"
-         id="text1610"
-         transform="scale(0.9999802,1.0000198)"><tspan
-           sodipodi:role="line"
-           id="tspan1608"
-           x="266.63965"
-           y="9.7522602"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35013px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f5f5f5;fill-opacity:1;stroke-width:0.264589">PIERRE-EMMANUEL LÉVESQUE</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path1612"
-         d="m 267.22451,17.496038 h 38.227"
-         style="fill:none;stroke:#bbbbbb;stroke-width:0.27584898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <g
-         transform="matrix(1,0,0,1.0000396,260.84511,-18.422754)"
-         id="g1624">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="tspan1614"
            x="12.593594"
            y="47.891621"
-           id="text1616"><tspan
-             sodipodi:role="line"
-             id="tspan1614"
-             x="12.593594"
-             y="47.891621"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583">pelevesque.com </tspan></text>
-        <g
-           transform="matrix(0.04960938,0,0,0.04960938,5.0385873,43.85937)"
-           id="g1622">
-          <rect
-             style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect1618"
-             width="81.919258"
-             height="86.9534"
-             x="24.713072"
-             y="18.469223" />
-          <path
-             inkscape:connector-curvature="0"
-             d="M 64,0 A 64,64 0 0 0 0,64 64,64 0 0 0 64,128 64,64 0 0 0 128,64 64,64 0 0 0 64,0 Z m -1.199219,24 h 2.5 c 8,0 14.29961,6.899609 13.59961,15.099609 L 78.5,45 h 0.699219 c 1.6,0.2 2.2,2.400391 1.5,4.900391 -0.5,1.8 -1.599219,3.198828 -2.699219,3.798828 l -0.199219,3.201172 c -0.3,3.4 -1.700781,6.399218 -3.800781,8.699218 v 5.800782 c 0,2 1.400391,3.60039 3.400391,3.90039 C 86.200391,76.800781 101,83.2 101,90 v 14 H 27 V 90 c 0,-6.8 14.799609,-13.199219 23.599609,-14.699219 2,-0.3 3.400391,-1.90039 3.400391,-3.90039 v -5.800782 c -2.1,-2.3 -3.499219,-5.299218 -3.699219,-8.699218 l -0.201172,-3.09961 c -1.1,-0.6 -2.298828,-2.00039 -2.798828,-3.90039 -0.7,-2.5 -0.1,-4.700391 1.5,-4.900391 0.2,0 0.39961,-3.91e-4 0.59961,0.09961 L 49,39.099609 C 48.5,30.899609 54.800781,24 62.800781,24 Z"
-             id="path1620" />
-        </g>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583">pelevesque.com </tspan></text>
       <g
-         transform="matrix(1,0,0,1.0000396,258.04878,-18.432997)"
-         id="g1636">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         transform="matrix(0.04960938,0,0,0.04960938,5.0385873,43.85937)"
+         id="g1622">
+        <rect
+           style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1618"
+           width="81.919258"
+           height="86.9534"
+           x="24.713072"
+           y="18.469223" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 64,0 A 64,64 0 0 0 0,64 64,64 0 0 0 64,128 64,64 0 0 0 128,64 64,64 0 0 0 64,0 Z m -1.199219,24 h 2.5 c 8,0 14.29961,6.899609 13.59961,15.099609 L 78.5,45 h 0.699219 c 1.6,0.2 2.2,2.400391 1.5,4.900391 -0.5,1.8 -1.599219,3.198828 -2.699219,3.798828 l -0.199219,3.201172 c -0.3,3.4 -1.700781,6.399218 -3.800781,8.699218 v 5.800782 c 0,2 1.400391,3.60039 3.400391,3.90039 C 86.200391,76.800781 101,83.2 101,90 v 14 H 27 V 90 c 0,-6.8 14.799609,-13.199219 23.599609,-14.699219 2,-0.3 3.400391,-1.90039 3.400391,-3.90039 v -5.800782 c -2.1,-2.3 -3.499219,-5.299218 -3.699219,-8.699218 l -0.201172,-3.09961 c -1.1,-0.6 -2.298828,-2.00039 -2.798828,-3.90039 -0.7,-2.5 -0.1,-4.700391 1.5,-4.900391 0.2,0 0.39961,-3.91e-4 0.59961,0.09961 L 49,39.099609 C 48.5,30.899609 54.800781,24 62.800781,24 Z"
+           id="path1620" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1,0,0,1.0000396,-3.72499,0.8878)"
+       id="g1636">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="105.21107"
+         y="47.901863"
+         id="text1628"><tspan
+           sodipodi:role="line"
+           id="tspan1626"
            x="105.21107"
            y="47.901863"
-           id="text1628"><tspan
-             sodipodi:role="line"
-             id="tspan1626"
-             x="105.21107"
-             y="47.901863"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583">npmjs.com/~pelevesque</tspan></text>
-        <g
-           transform="matrix(0.90714295,0,0,0.90714295,87.700591,43.869613)"
-           id="g1634">
-          <path
-             style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.12598424;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             d="M 0.50173301,0.38036108 H 17.544469 V 5.4624305 C 14.022928,5.5695849 10.606952,5.6912154 7.412574,6.0770985 5.2645238,6.3365844 2.9276579,5.1864906 0.50173301,5.4624305 Z"
-             id="path1630"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="cccscc" />
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:#000000;stroke-width:30"
-             d="m 0,0 v 180 h 150 v 30 H 270 V 180 H 540 V 0 Z M 30,30 H 150 V 150 H 120 V 60 H 90 v 90 H 30 Z m 150,0 h 120 v 120 h -60 v 30 h -60 z m 150,0 H 510 V 150 H 480 V 60 h -30 v 90 H 420 V 60 h -30 v 90 h -60 z m -90,30 v 60 h 30 V 60 Z"
-             transform="scale(0.03333333)"
-             id="path1632" />
-        </g>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583">npmjs.com/~pelevesque</tspan></text>
       <g
-         transform="matrix(1,0,0,1.0000396,256.52721,-18.425082)"
-         id="g1648">
-        <text
-           id="text1640"
+         transform="matrix(0.90714295,0,0,0.90714295,87.700591,43.869613)"
+         id="g1634">
+        <path
+           style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.125984;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 0.50173301,0.38036108 H 17.544469 V 5.4624305 C 14.022928,5.5695849 10.606952,5.6912154 7.412574,6.0770985 5.2645238,6.3365844 2.9276579,5.1864906 0.50173301,5.4624305 Z"
+           id="path1630"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccscc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke-width:30"
+           d="m 0,0 v 180 h 150 v 30 H 270 V 180 H 540 V 0 Z M 30,30 H 150 V 150 H 120 V 60 H 90 v 90 H 30 Z m 150,0 h 120 v 120 h -60 v 30 h -60 z m 150,0 H 510 V 150 H 480 V 60 h -30 v 90 H 420 V 60 h -30 v 90 h -60 z m -90,30 v 60 h 30 V 60 Z"
+           transform="scale(0.03333333)"
+           id="path1632" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1,0,0,1.0000396,-5.24656,0.895715)"
+       id="g1648">
+      <text
+         id="text1640"
+         y="47.893948"
+         x="153.41855"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583"
            y="47.893948"
            x="153.41855"
-           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583"
-             y="47.893948"
-             x="153.41855"
-             id="tspan1638"
-             sodipodi:role="line">linkedin.com/in/pelevesque </tspan></text>
-        <g
-           transform="matrix(0.26458333,0,0,0.26458333,145.89898,43.861698)"
-           id="g1646">
-          <rect
-             style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect1642"
-             width="19.509344"
-             height="18.903021"
-             x="2.282629"
-             y="2.0653627" />
-          <path
-             d="M 19,0 H 5 C 2.239,0 0,2.239 0,5 v 14 c 0,2.761 2.239,5 5,5 h 14 c 2.762,0 5,-2.239 5,-5 V 5 C 24,2.239 21.762,0 19,0 Z M 8,19 H 5 V 8 H 8 Z M 6.5,6.732 c -0.966,0 -1.75,-0.79 -1.75,-1.764 0,-0.974 0.784,-1.764 1.75,-1.764 0.966,0 1.75,0.79 1.75,1.764 0,0.974 -0.783,1.764 -1.75,1.764 z M 20,19 h -3 v -5.604 c 0,-3.368 -4,-3.113 -4,0 V 19 H 10 V 8 h 3 v 1.765 c 1.396,-2.586 7,-2.777 7,2.476 z"
-             id="path1644"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
+           id="tspan1638"
+           sodipodi:role="line">linkedin.com/in/pelevesque </tspan></text>
       <g
-         transform="matrix(1,0,0,1.0000396,259.40028,-18.442546)"
-         id="g1660">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         transform="matrix(0.26458333,0,0,0.26458333,145.89898,43.861698)"
+         id="g1646">
+        <rect
+           style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1642"
+           width="19.509344"
+           height="18.903021"
+           x="2.282629"
+           y="2.0653627" />
+        <path
+           d="M 19,0 H 5 C 2.239,0 0,2.239 0,5 v 14 c 0,2.761 2.239,5 5,5 h 14 c 2.762,0 5,-2.239 5,-5 V 5 C 24,2.239 21.762,0 19,0 Z M 8,19 H 5 V 8 H 8 Z M 6.5,6.732 c -0.966,0 -1.75,-0.79 -1.75,-1.764 0,-0.974 0.784,-1.764 1.75,-1.764 0.966,0 1.75,0.79 1.75,1.764 0,0.974 -0.783,1.764 -1.75,1.764 z M 20,19 h -3 v -5.604 c 0,-3.368 -4,-3.113 -4,0 V 19 H 10 V 8 h 3 v 1.765 c 1.396,-2.586 7,-2.777 7,2.476 z"
+           id="path1644"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1,0,0,1.0000396,-2.37349,0.878251)"
+       id="g1660">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="48.849102"
+         y="47.892361"
+         id="text1652"><tspan
+           sodipodi:role="line"
+           id="tspan1650"
            x="48.849102"
            y="47.892361"
-           id="text1652"><tspan
-             sodipodi:role="line"
-             id="tspan1650"
-             x="48.849102"
-             y="47.892361"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583">github.com/pelevesque</tspan></text>
-        <g
-           transform="matrix(0.26458333,0,0,0.26458333,41.177169,43.799763)"
-           id="g1658">
-          <circle
-             style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:18.26676941;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="circle1654"
-             cx="11.985716"
-             cy="12.803175"
-             r="11.5" />
-          <path
-             style="fill:#000000"
-             d="m 12,0.297 c -6.63,0 -12,5.373 -12,12 0,5.303 3.438,9.8 8.205,11.385 0.6,0.113 0.82,-0.258 0.82,-0.577 0,-0.285 -0.01,-1.04 -0.015,-2.04 C 5.672,21.789 4.968,19.455 4.968,19.455 4.422,18.07 3.633,17.7 3.633,17.7 2.546,16.956 3.717,16.971 3.717,16.971 c 1.205,0.084 1.838,1.236 1.838,1.236 1.07,1.835 2.809,1.305 3.495,0.998 C 9.158,18.429 9.467,17.9 9.81,17.6 7.145,17.3 4.344,16.268 4.344,11.67 4.344,10.36 4.809,9.29 5.579,8.45 5.444,8.147 5.039,6.927 5.684,5.274 c 0,0 1.005,-0.322 3.3,1.23 0.96,-0.267 1.98,-0.399 3,-0.405 1.02,0.006 2.04,0.138 3,0.405 2.28,-1.552 3.285,-1.23 3.285,-1.23 0.645,1.653 0.24,2.873 0.12,3.176 0.765,0.84 1.23,1.91 1.23,3.22 0,4.61 -2.805,5.625 -5.475,5.92 0.42,0.36 0.81,1.096 0.81,2.22 0,1.606 -0.015,2.896 -0.015,3.286 0,0.315 0.21,0.69 0.825,0.57 C 20.565,22.092 24,17.592 24,12.297 c 0,-6.627 -5.373,-12 -12,-12"
-             id="path1656"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583">github.com/pelevesque</tspan></text>
       <g
-         transform="matrix(1,0,0,1.0000396,261.77376,-18.577945)"
-         id="g1688">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         transform="matrix(0.26458333,0,0,0.26458333,41.177169,43.799763)"
+         id="g1658">
+        <circle
+           style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:18.2668;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1654"
+           cx="11.985716"
+           cy="12.803175"
+           r="11.5" />
+        <path
+           style="fill:#000000"
+           d="m 12,0.297 c -6.63,0 -12,5.373 -12,12 0,5.303 3.438,9.8 8.205,11.385 0.6,0.113 0.82,-0.258 0.82,-0.577 0,-0.285 -0.01,-1.04 -0.015,-2.04 C 5.672,21.789 4.968,19.455 4.968,19.455 4.422,18.07 3.633,17.7 3.633,17.7 2.546,16.956 3.717,16.971 3.717,16.971 c 1.205,0.084 1.838,1.236 1.838,1.236 1.07,1.835 2.809,1.305 3.495,0.998 C 9.158,18.429 9.467,17.9 9.81,17.6 7.145,17.3 4.344,16.268 4.344,11.67 4.344,10.36 4.809,9.29 5.579,8.45 5.444,8.147 5.039,6.927 5.684,5.274 c 0,0 1.005,-0.322 3.3,1.23 0.96,-0.267 1.98,-0.399 3,-0.405 1.02,0.006 2.04,0.138 3,0.405 2.28,-1.552 3.285,-1.23 3.285,-1.23 0.645,1.653 0.24,2.873 0.12,3.176 0.765,0.84 1.23,1.91 1.23,3.22 0,4.61 -2.805,5.625 -5.475,5.92 0.42,0.36 0.81,1.096 0.81,2.22 0,1.606 -0.015,2.896 -0.015,3.286 0,0.315 0.21,0.69 0.825,0.57 C 20.565,22.092 24,17.592 24,12.297 c 0,-6.627 -5.373,-12 -12,-12"
+           id="path1656"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1,0,0,1.0000396,-1e-5,0.742852)"
+       id="g1688">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="213.16957"
+         y="29.978405"
+         id="text1668"><tspan
+           sodipodi:role="line"
            x="213.16957"
            y="29.978405"
-           id="text1668"><tspan
-             sodipodi:role="line"
-             x="213.16957"
-             y="29.978405"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:end;text-anchor:end;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583"
-             id="tspan1662">Montréal</tspan><tspan
-             sodipodi:role="line"
-             x="213.16957"
-             y="33.858959"
-             id="tspan1664" /><tspan
-             sodipodi:role="line"
-             x="213.16957"
-             y="37.739517"
-             id="tspan1666" /></text>
-        <text
-           id="text1676"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:end;text-anchor:end;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583"
+           id="tspan1662">Montréal</tspan><tspan
+           sodipodi:role="line"
+           x="213.16957"
+           y="33.858967"
+           id="tspan1664" /><tspan
+           sodipodi:role="line"
+           x="213.16957"
+           y="37.739525"
+           id="tspan1666" /></text>
+      <text
+         id="text1676"
+         y="22.043221"
+         x="213.32693"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           id="tspan1670"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:end;text-anchor:end;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583"
            y="22.043221"
            x="213.32693"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           xml:space="preserve"><tspan
-             id="tspan1670"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:end;text-anchor:end;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583"
-             y="22.043221"
-             x="213.32693"
-             sodipodi:role="line">pierre.e.levesque@gmail.com</tspan><tspan
-             id="tspan1672"
-             y="25.923777"
-             x="213.32693"
-             sodipodi:role="line" /><tspan
-             id="tspan1674"
-             y="29.804333"
-             x="213.32693"
-             sodipodi:role="line" /></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           sodipodi:role="line">pierre.e.levesque@gmail.com</tspan><tspan
+           id="tspan1672"
+           y="25.92378"
+           x="213.32693"
+           sodipodi:role="line" /><tspan
+           id="tspan1674"
+           y="29.80434"
+           x="213.32693"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="213.23982"
+         y="26.325432"
+         id="text1686"><tspan
+           sodipodi:role="line"
            x="213.23982"
            y="26.325432"
-           id="text1686"><tspan
-             sodipodi:role="line"
-             x="213.23982"
-             y="26.325432"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:end;text-anchor:end;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583"
-             id="tspan1680">1 (438) 345-6385</tspan><tspan
-             sodipodi:role="line"
-             x="213.23982"
-             y="30.205992"
-             id="tspan1682" /><tspan
-             sodipodi:role="line"
-             x="213.23982"
-             y="34.086552"
-             id="tspan1684" /></text>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';text-align:end;text-anchor:end;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583"
+           id="tspan1680">1 (438) 345-6385</tspan><tspan
+           sodipodi:role="line"
+           x="213.23982"
+           y="30.205992"
+           id="tspan1682" /><tspan
+           sodipodi:role="line"
+           x="213.23982"
+           y="34.086552"
+           id="tspan1684" /></text>
     </g>
     <text
        xml:space="preserve"
