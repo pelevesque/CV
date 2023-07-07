@@ -5,7 +5,7 @@
    viewBox="0 0 215.9 279.4"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:version="1.3-dev (77bc73e, 2022-05-18)"
    sodipodi:docname="CV-web-two-pager_en_2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,17 +22,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2073762"
-     inkscape:cx="67.274442"
-     inkscape:cy="76.788"
+     inkscape:zoom="1.2663829"
+     inkscape:cx="350.21003"
+     inkscape:cy="78.570233"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1680"
-     inkscape:window-height="997"
-     inkscape:window-x="139"
-     inkscape:window-y="56"
+     inkscape:window-width="2334"
+     inkscape:window-height="1383"
+     inkscape:window-x="1811"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:lockguides="false"
@@ -1016,38 +1016,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1,0,0,1.0000396,-3.72499,0.8878)"
-       id="g1636">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="105.21107"
-         y="47.901863"
-         id="text1628"><tspan
-           sodipodi:role="line"
-           id="tspan1626"
-           x="105.21107"
-           y="47.901863"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#bbbbbb;fill-opacity:1;stroke-width:0.264583">npmjs.com/~pelevesque</tspan></text>
-      <g
-         transform="matrix(0.90714295,0,0,0.90714295,87.700591,43.869613)"
-         id="g1634">
-        <path
-           style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.125984;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 0.50173301,0.38036108 H 17.544469 V 5.4624305 C 14.022928,5.5695849 10.606952,5.6912154 7.412574,6.0770985 5.2645238,6.3365844 2.9276579,5.1864906 0.50173301,5.4624305 Z"
-           id="path1630"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccscc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke-width:30"
-           d="m 0,0 v 180 h 150 v 30 H 270 V 180 H 540 V 0 Z M 30,30 H 150 V 150 H 120 V 60 H 90 v 90 H 30 Z m 150,0 h 120 v 120 h -60 v 30 h -60 z m 150,0 H 510 V 150 H 480 V 60 h -30 v 90 H 420 V 60 h -30 v 90 h -60 z m -90,30 v 60 h 30 V 60 Z"
-           transform="scale(0.03333333)"
-           id="path1632" />
-      </g>
-    </g>
-    <g
-       transform="matrix(1,0,0,1.0000396,-5.24656,0.895715)"
+       transform="matrix(1,0,0,1.0000396,-58.692424,0.89571503)"
        id="g1648">
       <text
          id="text1640"
@@ -1077,7 +1046,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1,0,0,1.0000396,-2.37349,0.878251)"
+       transform="matrix(1,0,0,1.0000396,-0.78598993,0.878251)"
        id="g1660">
       <text
          xml:space="preserve"
