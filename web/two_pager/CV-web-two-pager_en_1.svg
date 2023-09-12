@@ -22,17 +22,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.334972"
-     inkscape:cx="392.51759"
-     inkscape:cy="668.17879"
+     inkscape:zoom="1.4375514"
+     inkscape:cx="458.41838"
+     inkscape:cy="978.74759"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="2366"
+     inkscape:window-width="1979"
      inkscape:window-height="1382"
-     inkscape:window-x="1784"
-     inkscape:window-y="30"
+     inkscape:window-x="571"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:lockguides="false"
@@ -293,7 +293,7 @@
          y="78.30809"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:2.91042px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:2.91042px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';fill:#000000;fill-opacity:1"
-           id="tspan994">passion for problem solving. My focus is on Raku, Javascript/Node.js, React, Vue, MySQL, HTML, and CSS.</tspan></tspan></text>
+           id="tspan994">passion for problem solving. My focus is on Raku, JS/NodeJS, React, Vue, MySQL, HTML, and CSS.</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1073"
@@ -315,7 +315,7 @@
          id="tspan1002"
          x="61.42746"
          y="117.68851"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">French, English, Indonesian, learning Spanish</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">French, English, Indonesian, Spanish (learning)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -337,7 +337,7 @@
          id="tspan943"
          x="61.563278"
          y="110.60165"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Git, VSCode, Photoshop, Illustrator, Gimp, Inkscape </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Git, Vim, VSCode, Photoshop, Illustrator, Gimp, Inkscape </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -370,12 +370,12 @@
          y="99.123116"
          x="61.679695"
          sodipodi:role="line"
-         id="tspan1740">Raku, Javascript/Node.js, React, Vue, AngularJS, MySQL, HTML, CSS</tspan><tspan
+         id="tspan1740">JS/NodeJS, TypeScript, jQuery, Vue, React, AngularJS, AdonisJS, FeathersJS </tspan><tspan
          id="tspan1753"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:2.91042px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
          y="103.9103"
          x="61.679695"
-         sodipodi:role="line">Bulma, PHP, Laravel, Kohana, Max, Arduino</tspan></text>
+         sodipodi:role="line">Raku, PHP, Laravel, MySQL, PostgreSQL, HTML, CSS, Bulma, Max, Arduino</tspan></text>
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot2064"
@@ -601,7 +601,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:2.82222px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
          y="282.41403"
          x="91.816154"
-         sodipodi:role="line">- Created a PSR-4 PHP class to consume FoxyCart's API.</tspan><tspan
+         sodipodi:role="line">- Created a PSR-4 PHP class to consume Foxy's API.</tspan><tspan
          id="tspan2906"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:2.82222px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
          y="287.21182"
@@ -689,7 +689,7 @@
          x="91.816154"
          y="199.12073"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:2.82222px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
-         id="tspan2062">- Built frontends using React and Vue.  </tspan></text>
+         id="tspan2062">- Built frontends using Vue and React.  </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:2.82222px;font-family:'IBM Plex Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -937,12 +937,12 @@
          style="stroke-width:0.264583"
          x="91.822311"
          y="138.14967"
-         id="tspan3983-6">- Worked on a FeathersJS/PostrgreSQL Application.</tspan><tspan
+         id="tspan3983-6">- Worked on a FeathersJS/PostgreSQL Application.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="91.822311"
          y="142.11842"
-         id="tspan10">- Used IntelliJ IDEA</tspan><tspan
+         id="tspan10">- Used IntelliJ IDEA.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="91.822311"
@@ -973,7 +973,7 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,17.6)"
        id="text1"
-       style="fill:#000000;white-space:pre;shape-inside:url(#rect1)" />
+       style="white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000" />
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
@@ -990,8 +990,8 @@
          x="26.894951"
          y="158.89308"
          id="tspan4"><tspan
-   id="tspan11"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.23333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.264583">Senior Application Developer</tspan></tspan><tspan
+           id="tspan11"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.23333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.264583">Senior Application Developer</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans';stroke-width:0.264583"
          x="26.894951"
@@ -1032,22 +1032,22 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,17.6)"
        id="text6"
-       style="fill:#000000;white-space:pre;shape-inside:url(#rect6)" />
+       style="white-space:pre;shape-inside:url(#rect6);display:inline;fill:#000000" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,17.6)"
        id="text7"
-       style="fill:#000000;white-space:pre;shape-inside:url(#rect7)" />
+       style="white-space:pre;shape-inside:url(#rect7);display:inline;fill:#000000" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,17.6)"
        id="text8"
-       style="fill:#000000;white-space:pre;shape-inside:url(#rect8)" />
+       style="white-space:pre;shape-inside:url(#rect8);display:inline;fill:#000000" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,17.6)"
        id="text9"
-       style="fill:#000000;white-space:pre;shape-inside:url(#rect9)" />
+       style="white-space:pre;shape-inside:url(#rect9);display:inline;fill:#000000" />
   </g>
   <style
      id="style947"
